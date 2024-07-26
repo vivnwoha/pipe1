@@ -1,0 +1,4 @@
+ am here to redo my git
+i hope to complete the CICD cycle on this round using docker
+lets see how it goes
+first is GIT
